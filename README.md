@@ -1,1 +1,3 @@
-# Practice HTML, CSS and JS
+# Practice Front End Skills 
+
+## • HTML CSS JS
