@@ -54,7 +54,7 @@ function App() {
 
           <a
             class="font-semibold tracking-wide uppercase text-slate-100 hover:text-lime-300"
-            href="https://seungdang123.github.io/profile/"
+            href="https://seungdang123.github.io/login-page/"
             target="_blank"
           >
             Login Page
