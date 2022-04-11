@@ -74,6 +74,20 @@ function App() {
             Hiraga & Katakana
           </a>
         </div>
+
+        <div class="flex  space-x-4 w-full">
+          <h2 class="text-base text-yellow-300 font-semibold tracking-wide uppercase">
+            • Practice HTML form tag
+          </h2>
+
+          <a
+            class="font-semibold tracking-wide uppercase text-slate-100 hover:text-lime-300"
+            href="https://seungdang123.github.io/survey/"
+            target="_blank"
+          >
+            Survey
+          </a>
+        </div>
       </div>
     </div>
   );
